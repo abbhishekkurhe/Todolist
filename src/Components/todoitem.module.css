@@ -1,0 +1,30 @@
+.item{
+ width: 100%;
+ font-size: 20px;
+ margin: 0 auto;
+}
+.itemname::after{
+    font-weight: bolder;
+    padding: 20px;
+    width: 100%;
+    
+   
+}
+
+.line{
+    height: 1px;
+    color: blue;
+}
+.delete{
+    float: right;
+    border: none;
+    padding: 10px 20px;
+    background-color: rgb(228, 224, 223);
+    border-radius: 9px;
+    cursor: pointer;
+    margin-top: -5px;
+    
+}
+.completed{
+    text-decoration: line-through;
+}

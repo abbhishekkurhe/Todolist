@@ -1,0 +1,10 @@
+.header{
+    background-position: 0%;
+    background-color: cadetblue;
+    font-size: 70px;
+    text-align: center;
+    padding: 7px;
+    height: 80px;
+    box-shadow: 0 9px 12px rgba(17, 144, 208, 0.689);
+    
+}

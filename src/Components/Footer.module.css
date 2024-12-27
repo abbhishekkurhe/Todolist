@@ -1,0 +1,22 @@
+.foot{
+ position: fixed;
+ margin: 20px auto;
+ text-align: center;
+ background-color:rgba(175, 205, 243, 0.463) ;
+ border-radius: 8px;
+ height: 20px;
+ padding: 30px;
+ width: 100%;
+ box-shadow: 0 5px 10px rgba(175, 205, 243, 0.463);
+ 
+}
+.footer{
+
+    text-align: center;
+    font-size: 30px;
+    margin: 15px;
+    scroll-behavior: smooth;
+
+    
+
+}
